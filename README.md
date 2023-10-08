@@ -15,6 +15,8 @@ Using React, Vite, and Tailwind CSS, the project offers a user-friendly interfac
 The project integrates with the NASA API to provide real-time data about the planets, ensuring that users have access to the latest information. Additionally, custom AI algorithms are implemented to offer personalized recommendations based on user preferences and behavior.
 
 With the inclusion of 3D models, CSS, HTML, and generative AI techniques, the website creates an immersive experience that sparks curiosity and allows users to gain knowledge about space exploration.
+![Screenshot 2023-10-08 064241](https://github.com/NASA-Space-App/Vite-React/assets/115219800/bd0a82e5-10b9-4450-94fc-3079c28af6e1)
+
 
 ## Technologies Used
 
@@ -32,10 +34,10 @@ With the inclusion of 3D models, CSS, HTML, and generative AI techniques, the we
 
 ## Features
 
-- Interactive 3D models of planets
+- Interactive 3D models visualisation of planets
 - Itinerary planning for space travel
 - Access to NASA API for real-time data
-- Custom AI for personalized recommendations
+- Custom AI(Pluto) for personalized conversation
 - User-friendly interface with responsive design
 
 ## Installation
