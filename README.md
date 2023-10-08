@@ -35,10 +35,16 @@ With the inclusion of 3D models, CSS, HTML, and generative AI techniques, the we
 ## Features
 
 - Interactive 3D models visualisation of planets
+- ![Screenshot 2023-10-08 064511](https://github.com/NASA-Space-App/Vite-React/assets/115219800/8ce607c1-3b6d-4833-a6e7-c346764e6250)
+
 - Itinerary planning for space travel
+- ![Screenshot 2023-10-08 064621](https://github.com/NASA-Space-App/Vite-React/assets/115219800/0dc0aaf8-fba0-4e12-8618-43dd2c612c24)
+
 - Access to NASA API for real-time data
 - Custom AI(Pluto) for personalized conversation
 - User-friendly interface with responsive design
+- ![Screenshot 2023-10-08 064520](https://github.com/NASA-Space-App/Vite-React/assets/115219800/6a361efe-ce3c-4eb2-8059-f28b61823b8a)
+
 
 ## Installation
 
